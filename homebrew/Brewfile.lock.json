@@ -804,6 +804,12 @@
         "options": {
           "full_name": "plex"
         }
+      },
+      "1password": {
+        "version": "8.10.4",
+        "options": {
+          "full_name": "1password"
+        }
       }
     },
     "mas": {
