@@ -792,6 +792,18 @@
         "options": {
           "full_name": "react-native-debugger"
         }
+      },
+      "raycast": {
+        "version": "1.49.3",
+        "options": {
+          "full_name": "raycast"
+        }
+      },
+      "plex": {
+        "version": "1.67.2.3705,db506a00",
+        "options": {
+          "full_name": "plex"
+        }
       }
     },
     "mas": {
