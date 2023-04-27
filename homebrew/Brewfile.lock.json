@@ -708,7 +708,7 @@
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "9ade8092fab04401184f9f022a54c0d08baef126"
+        "revision": "9708ed594e06fce73d76a7d242fcfc0f3658da78"
       },
       "shopify/shopify": {
         "revision": "6f0b46d7076727cfed2543a12d6a87b319d1cca0"
@@ -764,7 +764,7 @@
         }
       },
       "spotify": {
-        "version": "1.2.10.760,52970952,1110",
+        "version": "1.2.10.760,52970952,1108",
         "options": {
           "full_name": "spotify"
         }
@@ -815,7 +815,7 @@
     "mas": {
       "Xcode": {
         "id": "497799835",
-        "version": "14.3"
+        "version": "14.2"
       },
       "1Password for Safari": {
         "id": "1569813296",
