@@ -708,7 +708,7 @@
     },
     "tap": {
       "homebrew/cask": {
-        "revision": "9708ed594e06fce73d76a7d242fcfc0f3658da78"
+        "revision": "9ade8092fab04401184f9f022a54c0d08baef126"
       },
       "shopify/shopify": {
         "revision": "6f0b46d7076727cfed2543a12d6a87b319d1cca0"
@@ -764,7 +764,7 @@
         }
       },
       "spotify": {
-        "version": "1.2.10.760,52970952,1108",
+        "version": "1.2.10.760,52970952,1110",
         "options": {
           "full_name": "spotify"
         }
@@ -816,6 +816,10 @@
       "Xcode": {
         "id": "497799835",
         "version": "14.3"
+      },
+      "1Password for Safari": {
+        "id": "1569813296",
+        "version": "2.10.0"
       }
     }
   },
@@ -827,7 +831,7 @@
         "Homebrew/homebrew-core": "api",
         "CLT": "14.3.0.0.1.1679647830",
         "Xcode": "14.3",
-        "macOS": "13.3.1"
+        "macOS": "13.2.1"
       },
       "monterey": {
         "HOMEBREW_VERSION": "4.0.15",
