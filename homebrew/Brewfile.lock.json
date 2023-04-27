@@ -786,6 +786,12 @@
         "options": {
           "full_name": "zoom"
         }
+      },
+      "react-native-debugger": {
+        "version": "0.13.0",
+        "options": {
+          "full_name": "react-native-debugger"
+        }
       }
     },
     "mas": {
