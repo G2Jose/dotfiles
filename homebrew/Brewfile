@@ -21,8 +21,11 @@ brew 'zsh-syntax-highlighting'
 cask '1password'
 cask 'appcleaner'
 cask 'caffeine'
+cask 'daisydisk'
+cask 'figma'
 cask 'firefox'
 cask 'flipper'
+cask 'google-chrome'
 cask 'iterm2'
 cask 'obsidian'
 cask 'plex'
@@ -35,5 +38,6 @@ cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'zoom'
 
-mas 'Xcode', id: 497799835
 mas '1Password for Safari', id: 1569813296
+mas 'AdBlock for Safari', id: 1402042596
+mas 'Xcode', id: 497799835
