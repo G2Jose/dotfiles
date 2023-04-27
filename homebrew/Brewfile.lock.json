@@ -787,6 +787,12 @@
           "full_name": "zoom"
         }
       }
+    },
+    "mas": {
+      "Xcode": {
+        "id": "497799835",
+        "version": "14.3"
+      }
     }
   },
   "system": {
