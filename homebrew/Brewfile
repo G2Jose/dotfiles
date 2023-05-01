@@ -1,6 +1,6 @@
 tap 'homebrew/cask'
-tap 'shopify/shopify'
 tap 'koekeishiya/formulae'
+tap 'shopify/shopify'
 
 brew 'cocoapods'
 brew 'ejson'
@@ -14,6 +14,7 @@ brew 'neovim'
 brew 'node'
 brew 'rbenv'
 brew 'shellcheck'
+brew 'shottr'
 brew 'vim'
 brew 'wget'
 brew 'yabai'
@@ -42,6 +43,6 @@ cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'zoom'
 
-mas '1Password for Safari', id: 1569813296
-mas 'AdBlock for Safari', id: 1402042596
-mas 'Xcode', id: 497799835
+mas '1Password for Safari', id: 1_569_813_296
+mas 'AdBlock for Safari', id: 1_402_042_596
+mas 'Xcode', id: 497_799_835
