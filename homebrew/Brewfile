@@ -43,6 +43,7 @@ cask 'spotify'
 cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'zoom'
+cask 'discord'
 
 mas '1Password for Safari', id: 1_569_813_296
 mas 'AdBlock for Safari', id: 1_402_042_596
