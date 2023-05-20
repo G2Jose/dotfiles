@@ -1,11 +1,13 @@
 tap 'homebrew/cask'
 tap 'koekeishiya/formulae'
 tap 'shopify/shopify'
+tap 'facebook/fb'
 
 brew 'cocoapods'
 brew 'ejson'
 brew 'fzf'
 brew 'git'
+brew 'idb-companion'
 brew 'imagemagick'
 brew 'jq'
 brew 'mas'
