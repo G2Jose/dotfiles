@@ -3,6 +3,7 @@ tap 'koekeishiya/formulae'
 tap 'shopify/shopify'
 tap 'facebook/fb'
 
+brew 'zsh-vi-mode'
 brew 'cocoapods'
 brew 'ejson'
 brew 'fzf'
@@ -47,6 +48,7 @@ cask 'spotify'
 cask 'visual-studio-code'
 cask 'whatsapp'
 cask 'zoom'
+cask 'vlc'
 
 mas '1Password for Safari', id: 1_569_813_296
 mas 'AdBlock for Safari', id: 1_402_042_596
