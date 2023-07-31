@@ -3,6 +3,8 @@ function zvm_before_init() {
   zvm_bindkey viins '^[[B' history-beginning-search-forward
   zvm_bindkey vicmd '^[[A' history-beginning-search-backward
   zvm_bindkey vicmd '^[[B' history-beginning-search-forward
+
+	# Allow option deleting words without leaving insert mode
 	zvm_bindkey viins '^[^?' backward-kill-word
 }
 
@@ -29,5 +31,3 @@ source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
-# Allow option deleting words without leaving insert mode
-bindkey '^[^?' backward-kill-word
