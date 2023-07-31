@@ -1,4 +1,3 @@
-source $ZSH/oh-my-zsh.sh
 
 function zvm_before_init() {
   zvm_bindkey viins '^[[A' history-beginning-search-backward
@@ -24,4 +23,10 @@ ZSH_AUTOSUGGEST_ACCEPT_WIDGETS=(
     vi-forward-char
     vi-add-eol
 )
+
+ZSH_THEME="powerlevel10k/powerlevel10k"
+source $(brew --prefix)/opt/powerlevel10k/powerlevel10k.zsh-theme
+
+# To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
+[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
