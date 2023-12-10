@@ -1,0 +1,25 @@
+{
+  "androidHome": "/Users/georgejose/Library/Android/sdk",
+  "enableAndroid": true,
+  "enableIOS": true,
+  "enablePhysicalIOS": false,
+  "enablePrefetching": 2,
+  "idbPath": "/usr/local/bin/idb",
+  "reactNative": {
+    "shortcuts": {
+      "enabled": true,
+      "reload": "Alt+Shift+R",
+      "openDevMenu": "Alt+Shift+D"
+    }
+  },
+  "darkMode": "system",
+  "showWelcomeAtStartup": false,
+  "suppressPluginErrors": false,
+  "persistDeviceData": false,
+  "enablePluginMarketplace": false,
+  "marketplaceURL": "",
+  "enablePluginMarketplaceAutoUpdate": true,
+  "server": {
+    "enabled": false
+  }
+}
