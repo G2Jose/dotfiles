@@ -1,4 +1,10 @@
 {
 	"optOut": false,
-	"lastUpdateCheck": 1687008983450
+	"lastUpdateCheck": 1704173274956,
+	"update": {
+		"latest": "5.0.0",
+		"current": "4.27.8",
+		"type": "major",
+		"name": "react-devtools"
+	}
 }
