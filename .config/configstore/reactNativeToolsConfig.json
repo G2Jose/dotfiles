@@ -1,7 +1,7 @@
 {
 	"version": "1.12.3",
 	"tipsConfig": {
-		"daysLeftBeforeGeneralTip": 3,
+		"daysLeftBeforeGeneralTip": 9,
 		"firstTimeMinDaysToRemind": 4,
 		"firstTimeMaxDaysToRemind": 6,
 		"minDaysToRemind": 6,
@@ -11,7 +11,7 @@
 		"tips": {
 			"generalTips": {
 				"elementInspector": {
-					"shownDate": "2024-01-04T15:24:06.898Z"
+					"shownDate": "2024-02-20T21:30:54.054Z"
 				},
 				"logCatMonitor": {
 					"shownDate": "2024-01-22T21:20:54.186Z"
@@ -38,16 +38,16 @@
 				}
 			}
 		},
-		"lastExtensionUsageDate": "2024-02-12T15:01:54.882Z"
+		"lastExtensionUsageDate": "2024-02-22T19:13:17.236Z"
 	},
 	"surveyConfig": {
 		"shortPeriodToRemind": 30,
 		"longPeriodToRemind": 90,
 		"popCoveragePercent": 0.1,
 		"enabled": true,
-		"daysLeftBeforeSurvey": 14,
+		"daysLeftBeforeSurvey": 9,
 		"surveyName": "userSatisfactionSurvey",
 		"surveyUrl": "https://www.surveymonkey.com/r/6FJGVDV",
-		"lastExtensionUsageDate": "2024-02-12T15:01:56.334Z"
+		"lastExtensionUsageDate": "2024-02-22T19:13:18.226Z"
 	}
 }

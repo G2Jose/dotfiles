@@ -1,8 +1,8 @@
 {
 	"optOut": false,
-	"lastUpdateCheck": 1684537376685,
+	"lastUpdateCheck": 1708629316340,
 	"update": {
-		"latest": "4.1.14",
+		"latest": "4.1.22",
 		"current": "2.6.2",
 		"type": "major",
 		"name": "mrm"
