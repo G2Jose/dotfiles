@@ -1,7 +1,7 @@
 {
-	"version": "1.12.3",
+	"version": "1.13.0",
 	"tipsConfig": {
-		"daysLeftBeforeGeneralTip": 9,
+		"daysLeftBeforeGeneralTip": 0,
 		"firstTimeMinDaysToRemind": 4,
 		"firstTimeMaxDaysToRemind": 6,
 		"minDaysToRemind": 6,
@@ -38,16 +38,16 @@
 				}
 			}
 		},
-		"lastExtensionUsageDate": "2024-02-22T19:13:17.236Z"
+		"lastExtensionUsageDate": "2024-04-12T16:07:25.083Z"
 	},
 	"surveyConfig": {
 		"shortPeriodToRemind": 30,
 		"longPeriodToRemind": 90,
 		"popCoveragePercent": 0.1,
 		"enabled": true,
-		"daysLeftBeforeSurvey": 9,
+		"daysLeftBeforeSurvey": 0,
 		"surveyName": "userSatisfactionSurvey",
 		"surveyUrl": "https://www.surveymonkey.com/r/6FJGVDV",
-		"lastExtensionUsageDate": "2024-02-22T19:13:18.226Z"
+		"lastExtensionUsageDate": "2024-04-12T16:07:25.832Z"
 	}
 }
