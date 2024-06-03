@@ -3,3 +3,4 @@
 .config/yarn
 .config/vscode-react-native
 **/.DS_Store
+**/node_modules
